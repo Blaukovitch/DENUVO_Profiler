@@ -38,7 +38,10 @@ GameToken is Secret X-Table, which contains mathematical dependencies between yo
 ## SONY DADC AG SecuROM_Profiler
 ![SPR](/~!IMG/SecuROM_Profiler.jpg)
 
+## See also
+**DENUVO LEAK content** 
+https://github.com/Blaukovitch/DENUVO-LEAK/  
+
 ## Tiberium reversing
 All materials published as part of **Tiberium reversing** - full stack of articles (xakep.ru), cracking videos (YOUTUBE) and C/C++/ASM coding tools. 
 (C) *2011-2024*
-
