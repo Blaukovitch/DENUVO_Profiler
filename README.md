@@ -25,7 +25,7 @@ GameToken is Secret X-Table, which contains mathematical dependencies between yo
 
 *Secondary:*
 * `\BEA\` - BEA engine source;  
-* '\BeaEngine\` - BEA engine dlls & lib;  
+* `\BeaEngine\` - BEA engine dlls & lib;  
 * `\XED\` - XED dissasembly;  
 * `\CRYPTO\` - simple implementation of AES/MD5;  
 
