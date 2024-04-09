@@ -20,14 +20,14 @@ GameToken is Secret X-Table, which contains mathematical dependencies between yo
 
 ## Folders description
 *PRIMARY:*
-* \ENGINE\ - "DENUVO_Inspire" main engine;  
-* \ThirdParty\Origin\ - Electronic Arts Origin;  
+* `\ENGINE\` - "DENUVO_Inspire" main engine;  
+* `\ThirdParty\Origin\` - Electronic Arts Origin (Origin CORE dissaembly info);  
 
 *Secondary:*
-* \BEA\ - BEA engine source;  
-* \BeaEngine\ - BEA engine dlls & lib;  
-* \XED\ - XED dissasembly;  
-* \CRYPTO\ - simple implementation of AES/MD5;  
+* `\BEA\` - BEA engine source;  
+* '\BeaEngine\` - BEA engine dlls & lib;  
+* `\XED\` - XED dissasembly;  
+* `\CRYPTO\` - simple implementation of AES/MD5;  
 
 
 ## Versioning
